@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "initial_admob":"NO",
+      "initial_admob":"YES",
       "initial_mopub":"NO",
       "initial_applovin":"NO",
       "initial_startapp":"NO",
@@ -16,10 +16,10 @@
       "backup_mode": "NO",
 
       "admob_banner": "",
-      "admob_inter": "",
-      "admob_native": "",
-      "admob_native_banner": "",
-      "admob_open": "",
+      "admob_inter": "ca-app-pub-4857886071073941/2857308727",
+      "admob_native": "ca-app-pub-4857886071073941/6848524628",
+      "admob_native_banner": "ca-app-pub-4857886071073941/6848524628",
+      "admob_open": "ca-app-pub-4857886071073941/4222361289",
       "banner_apa_native":"BANNER",
 
 
