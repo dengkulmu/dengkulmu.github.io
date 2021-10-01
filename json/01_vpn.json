@@ -6,8 +6,8 @@
       "initial_applovin":"NO",
       "initial_startapp":"NO",
 
-      "select_banner":"XSTARTAPP",
-      "select_inter":"XAPPLOVIN",
+      "select_banner":"ADMOB",
+      "select_inter":"ADMOB",
       "select_backup_ads":"xADMOB",
 
 
