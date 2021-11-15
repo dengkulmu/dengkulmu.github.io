@@ -2,11 +2,11 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_ads":"ADMOBX",
+      "select_backup_ads":"IRONX",
 
-      "main_ads_inter":"ca-app-pub-4857886071073941/7476971749",
-      "main_ads_banner":"ca-app-pub-4857886071073941/3505937141",
+      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
 
       "backup_ads_inter":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
@@ -17,10 +17,12 @@
       "interval":0,
 
 
-      "admob_native": "ca-app-pub-4857886071073941/3505937141",
-      "admob_open": "ca-app-pub-4857886071073941/6163890071",
-      "admob_open2": "ca-app-pub-4857886071073941/6163890071",
-      "open_only": "NO",
+      "admob_native": "xx",
+      "admob_open": "xx",
+      "admob_open2": "xx",
+      "open_only": "no",
+      "lawas": "no",
+      "fan": "NO",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
