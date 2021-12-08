@@ -3,7 +3,7 @@
     {
 
       "select_ads":"ADMOB",
-      "select_backup_ads":"XX",
+      "select_backup_ads":"FACEBOOK",
 
       "main_ads_inter":"ca-app-pub-4857886071073941/1624727881",
       "main_ads_banner":"ca-app-pub-4857886071073941/5372401206",
@@ -22,7 +22,7 @@
       "admob_open2": "ca-app-pub-4857886071073941/7274007368",
       "open_only": "MIX",
       "lawas": "NO",
-      "fan": "NO",
+      "fan": "208062844476609_320487619900797",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
