@@ -3,7 +3,7 @@
     {
 
       "select_ads":"APPLOVIN-D",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"XX-D",
 
       "main_ads_inter":"DefaultInterstitial",
       "main_ads_banner":"DefaultBanner",
@@ -14,7 +14,7 @@
       "initial_sdk":"INITIALIZE_SDK",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "interval":0,
+      "interval":1,
 
 
       "admob_native": "xx",
