@@ -14,14 +14,14 @@
       "initial_sdk":"INITIALIZE_SDK",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "interval":0,
+      "interval":1,
 
 
       "admob_native": "xx",
       "admob_open": "xx",
       "admob_open2": "xx",
-      "open_only": "no",
-      "lawas": "no",
+      "open_only": "NO",
+      "lawas": "NO",
       "fan": "NO",
 
       "hpk1": "insurance",

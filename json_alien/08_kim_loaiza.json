@@ -14,11 +14,11 @@
       "initial_sdk":"INITIALIZE_SDK",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "interval":0,
+      "interval":1,
       "admob_native": "ca-app-pub-4857886071073941/5854636990",
       "admob_open": "ca-app-pub-4857886071073941/3228473654",
       "admob_open2": "ca-app-pub-4857886071073941/6122401740",
-      "open_only": "MIX",
+      "open_only": "NO",
       "lawas": "NO",
       "fan": "270406588460910_270406648460904",
 
