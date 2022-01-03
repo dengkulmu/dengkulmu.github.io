@@ -14,7 +14,7 @@
       "initial_sdk":"INITIALIZE_SDK",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "interval":1,
+      "interval":0,
 
 
       "admob_native": "ca-app-pub-4857886071073941/3505937141",
@@ -22,7 +22,7 @@
       "admob_open2": "ca-app-pub-4857886071073941/5256048805",
       "open_only": "NO",
       "lawas": "NO",
-      "fan": "272622704549602_272622747882931",
+      "fan": "NO",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
